@@ -6,9 +6,10 @@ gem 'rails', '4.0.1'
 gem 'bootstrap-sass', '2.3.2.0'
 gem 'awesome_print'
 gem 'bcrypt-ruby', '3.1.2'
+gem 'sqlite3', '1.3.8'
 
 group :development do
-  gem 'sqlite3', '1.3.8'
+
 	gem 'rspec-rails', '2.13.1'
   gem 'guard-rspec', '2.5.0'
   gem 'spork-rails', '4.0.0'
