@@ -6,4 +6,10 @@
   <data-source source="LOCAL" name="Rails sample_app: test" uuid="19091e3b-8039-437b-9be5-3177a06d1770">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
+  <data-source source="LOCAL" name="Rails sample_app: cucumber" uuid="0063635a-5622-403b-84dd-f9d54811777c">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails sample_app: production" uuid="bb68e664-688a-4b43-86d8-4fe077f828ef">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
 </component>
